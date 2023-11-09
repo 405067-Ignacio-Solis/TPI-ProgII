@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ignacio\\source\\repos\\Prog II\\TPI_ProgII\\TPI_ProgII\\TPI_ProgII.csproj",
-      "projectName": "TPI_ProgII",
-      "projectPath": "C:\\Users\\Ignacio\\source\\repos\\Prog II\\TPI_ProgII\\TPI_ProgII\\TPI_ProgII.csproj",
+      "projectUniqueName": "C:\\Users\\Ignacio\\source\\repos\\Prog II\\TPI_ProgII\\TPI_ProgII\\Front.csproj",
+      "projectName": "Front",
+      "projectPath": "C:\\Users\\Ignacio\\source\\repos\\Prog II\\TPI_ProgII\\TPI_ProgII\\Front.csproj",
       "packagesPath": "C:\\Users\\Ignacio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ignacio\\source\\repos\\Prog II\\TPI_ProgII\\TPI_ProgII\\obj\\",
       "projectStyle": "PackageReference",
