@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\TPI-ProgII\TPI_ProgII\obj\Debug\net6.0-windows\Back.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\TPI-ProgII\TPI_ProgII\obj\Debug\net6.0-windows\Back.Properties.Resources.resources
+C:\Users\David\source\repos\TPI-ProgII\TPI_ProgII\obj\Debug\net6.0-windows\Back.csproj.GenerateResource.cache
+C:\Users\David\source\repos\TPI-ProgII\TPI_ProgII\obj\Debug\net6.0-windows\Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\TPI-ProgII\TPI_ProgII\obj\Debug\net6.0-windows\Back.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\TPI-ProgII\TPI_ProgII\obj\Debug\net6.0-windows\Back.AssemblyInfo.cs
+C:\Users\David\source\repos\TPI-ProgII\TPI_ProgII\obj\Debug\net6.0-windows\Back.csproj.CoreCompileInputs.cache
